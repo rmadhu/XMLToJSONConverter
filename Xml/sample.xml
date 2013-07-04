@@ -1,0 +1,11 @@
+<person>
+  <firstName>John</firstName>
+  <firstName>Madison</firstName>
+  <firstName>Joe</firstName>
+  <lastName>Smith</lastName>
+  <lastName>Gruyen</lastName>
+  <phoneNumbers>
+    <phoneNumber type="home">222 555-1234</phoneNumber>
+    <phoneNumber type="fax">333 555-4567</phoneNumber>
+  </phoneNumbers>
+</person>
